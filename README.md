@@ -1,3 +1,5 @@
+[← 🏠 プロフィールに戻る](https://github.com/paison58223-lang)
+
 # TechnologyNote(Excel)
 ## 📌 概要
 このページは ExcelVBA のツール作成で学んだことをまとめたNoteです。
