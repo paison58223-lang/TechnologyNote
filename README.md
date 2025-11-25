@@ -110,7 +110,7 @@ End Sub
 - Excel上でカウントダウンを雰囲気で出したい等の用途にご利用ください。
 
 </details>
-<details open>
+<details>
 <summary><b>😒 いまさら聞けないVBAの変数宣言あれこれ</b></summary>
 
   ---
