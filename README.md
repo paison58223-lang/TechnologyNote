@@ -4,7 +4,7 @@
 ## 📌 概要
 このページは ExcelVBA のツール作成で学んだことをまとめたNoteです。
 
-<details>
+<details open>
 <summary><b>📒 セル操作を発火とするマクロを作る方法</b></summary>
 
 
