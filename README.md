@@ -4,7 +4,7 @@
 ## 📌 概要
 このページは ExcelVBA のツール作成で学んだことをまとめたNoteです。
 
-<details open>
+<details>
 <summary><b>📒 セル操作を発火とするマクロを作る方法</b></summary>
 
 
@@ -33,7 +33,7 @@ Targetが発火するセルに該当するとTrueが返される。<br>
 **<b>🐔＜　Range同士比較は不正確・複数セルで壊れる　コケっ！ </b>**<br>
 <br>
 従って該当セルのRow(行)、Column(列)を用いて指定しなければならない。<br>
-
+<br>
 </details>
 <details open>
 <summary><b>🕰️ 時間で発動するマクロを組む方法</b></summary>
