@@ -1,4 +1,4 @@
-[← 🏠 プロフィールに戻る](https://github.com/paison58223-lang)
+[← 🏠 プロフィールに戻る](https://paison58223-lang.github.io/paison58223-lang/)
 
 # TechnologyNote(Excel)
 ## 📌 概要
