@@ -26,9 +26,9 @@ Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean
   ' D1 以外のダブルクリックは無効
   If Not (Target.Row = 1 And Target.Column = 4) Then Exit Sub
 ```
-
-Targetが発火するセルに該当するとTrueが返される。
-この際、直接 Target = Range("D1") とすることはできない。
+<br>
+Targetが発火するセルに該当するとTrueが返される。<br>
+この際、直接 Target = Range("D1") とすることはできない。<br>
 
 
 **<b>🐔＜　Range同士比較は不正確・複数セルで壊れる　コケっ！ </b>**
