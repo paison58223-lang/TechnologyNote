@@ -10,18 +10,16 @@
 
 <b>🔧 基本ポイント<br></b>
 ・ セル操作を行うシートの「シートモジュール」にコードを書く  <br>
-・ ※標準モジュールでは動作しないことに注意！
-
+・ ※標準モジュールでは動作しないことに注意！<br>
 <br>
-
-<b>🔍 手順：イベントを選ぶ<b><br>
-下記の表示の場所で動作させたい種類を選ぶ。  
-今回はダブルクリックを発火点としたいので  
-**『BeforeDoubleClick』** を選択。
+<b>🔍 手順：イベントを選ぶ</b><br>
+下記の表示の場所で動作させたい種類を選ぶ。  <br>
+今回はダブルクリックを発火点としたいので  <br>
+<b>『BeforeDoubleClick』</b> を選択。<br>
 
 <img width="1913" height="260" alt="image" src="https://github.com/user-attachments/assets/ffdc8203-67d1-494b-af83-17b7c567adc1" />
-
-### ⚙️ 実装：発火点の調整方法
+<br>
+<b>⚙️ 実装：発火点の調整方法</b><br>
 
 ```vb
 Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean)
