@@ -35,7 +35,7 @@ Targetが発火するセルに該当するとTrueが返される。<br>
 従って該当セルのRow(行)、Column(列)を用いて指定しなければならない。<br>
 <br>
 </details>
-<details open>
+<details>
 <summary><b>🕰️ 時間で発動するマクロを組む方法</b></summary>
 <br>
 <b>🔧 基本ポイント</b><br>
