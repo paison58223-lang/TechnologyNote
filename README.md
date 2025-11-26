@@ -17,7 +17,7 @@
 今回はダブルクリックを発火点としたいので  <br>
 <b>『BeforeDoubleClick』</b> を選択。<br>
 
-<img width="1913" height="200" alt="image" src="https://github.com/user-attachments/assets/ffdc8203-67d1-494b-af83-17b7c567adc1" />
+<img width="1913" height="160" alt="image" src="https://github.com/user-attachments/assets/ffdc8203-67d1-494b-af83-17b7c567adc1" />
 <br>
 <b>⚙️ 実装：発火点の調整方法</b><br>
 
